@@ -10,7 +10,7 @@ Week 1 assignment for Turbin3. Mint and transfer an SPL token, then mint, update
 - [x] Task 4 (extension): Transfer the NFT between wallets
 - [x] Task 5 (extension): Burn the NFT and reclaim the rent
 
-Write-up / thread: `<add your X / LinkedIn / YouTube link here>`
+Youtube Explanation Video: [https://youtu.be/wfThAvT-U9w](https://youtu.be/wfThAvT-U9w)
 
 ## Stack
 
